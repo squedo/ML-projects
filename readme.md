@@ -1,4 +1,4 @@
 # ML projects
 --------------------------------------------------------------
-ML01: Iris dataset => practice ML algorithms and metrics
-ML02: Students performance in exams => practice ML algorithms and metrics
+Aim is to practice Machine learning with different dataset
+On a periodic basis the project will be reviewed to update and do improvements on the different versions
